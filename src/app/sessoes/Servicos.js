@@ -28,11 +28,11 @@ export default function Servicos() {
           </p>
         </div>
         <div
-          className="bg-[#2A3047] p-6 rounded-lg shadow-md"
+          className="bg-[#020621] p-6 rounded-lg shadow-md"
           style={{ transform: 'translateY(-20px)' }}
         >
           <div className="w-12 h-12 bg-white rounded-full mx-auto mb-4 flex justify-center items-center">
-            <i className="bi bi-people text-[#2A3047] text-2xl"></i>
+            <i className="bi bi-people text-[#020621] text-2xl"></i>
           </div>
           <h3
             className="text-lg font-bold mb-2 text-center"
@@ -45,7 +45,7 @@ export default function Servicos() {
           </p>
         </div>
         <div
-          className="bg-[#2A3047] p-6 rounded-lg shadow-md"
+          className="bg-[#020621] p-6 rounded-lg shadow-md"
           style={{ transform: 'translateY(20px)' }}
         >
           <div className="w-12 h-12 bg-white rounded-full mx-auto mb-4 flex justify-center items-center">
