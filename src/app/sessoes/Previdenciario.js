@@ -68,7 +68,7 @@ export default function Previdenciario() {
         </div>
       </div>
 
-      <div className="flex justify-center mt-8">
+      <div className="flex justify-center mt-8  ">
         <a href="#contact" className="btn btn-primary">
           Fale com um Especialista
         </a>

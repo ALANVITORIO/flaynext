@@ -1,6 +1,6 @@
 export default function Trabalhista() {
   return (
-    <section className="py-6 bg-slate-100 px-8">
+    <section className="  px-8">
       <h2 className="text-3xl font-bold text-center mb-8">
         Advogado Trabalhista
       </h2>
@@ -76,7 +76,7 @@ export default function Trabalhista() {
         </div>
       </div>
 
-      <div className="flex justify-center mt-8">
+      <div className="flex justify-center mt-6 py-8">
         <a href="#contact" className="btn btn-primary">
           Fale com um Especialista
         </a>
